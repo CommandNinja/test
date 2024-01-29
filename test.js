@@ -1,1 +1,1 @@
-document.write("<br>test written in from other repo")
+document.write("<br>written in from other repo")
