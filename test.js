@@ -1,1 +1,1 @@
-alert("test")
+document.write("test written in from other repo")
